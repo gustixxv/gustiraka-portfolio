@@ -164,9 +164,9 @@ body{
 .skillbar {
     flex-wrap: wrap;
     display: flex;
-    width: 305px;
+    width: 200px;
     height: 20px;
-    background-color: #fff;
+    background-color: grey;
     border-radius: 10px;
     margin-bottom: 10px;
 }   
